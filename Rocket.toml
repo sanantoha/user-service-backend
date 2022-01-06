@@ -1,0 +1,5 @@
+[default]
+port = 8089
+
+[default.databases]
+db = { url = "postgres://app_user:app123@localhost:5432/user_service" }
